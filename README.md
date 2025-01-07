@@ -1,7 +1,7 @@
 
 # YouTubeX v19.49.7 v2.4
 
-Minimal YTLitePlus fork, simple, clean and updated with must have additions https://github.com/YTubeX
+Minimal YTLitePlus fork, simple, clean and updated with must have additions.
 
 ## Features:
  
@@ -31,3 +31,4 @@ Based on YTLitePlus
 Thanks to them :)
 
 https://t.me/AppleTesters/1/456562
+https://github.com/YTubeX
