@@ -1,9 +1,9 @@
 
-### YouTubeX v19.49.7 v2.4
+# YouTubeX v19.49.7 v2.4
 
 Minimal YTLitePlus fork, simple, clean and updated with must have additions.
 
-# Features:
+## Features:
  
 - YouTube Plus v5.1
 - YTLitePlus v5.0.2
@@ -11,7 +11,7 @@ Minimal YTLitePlus fork, simple, clean and updated with must have additions.
 - YouGroupSettings v5.0.2
 - Return Youtube Dislikes v5.0.2
 
-# Changes log v2.4:
+## Changes log v2.4:
 
 - Update Cydia Substrate Framework
 - Update YTLitePlus to v5.0.2
