@@ -1,7 +1,7 @@
 
 # YouTubeX v19.49.7 v2.4
 
-Minimal YTLitePlus fork, simple, clean and updated with must have additions.
+Minimal YTLitePlus fork, simple, clean and updated with must have additions https://github.com/YTubeX
 
 ## Features:
  
@@ -27,7 +27,6 @@ Minimal YTLitePlus fork, simple, clean and updated with must have additions.
 - Patching YouGroupSettings to reorder the menu
 - Known cosmetic issue YTLite 5.1 settings menu is in the second group menu instead of the first (not easy to fix before YTLP 5.0.2 final release but its secondary anyway)
 
-https://github.com/YTubeX
 Based on YTLitePlus
 Thanks to them :)
 
